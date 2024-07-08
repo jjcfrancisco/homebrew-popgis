@@ -1,2 +1,2 @@
 # homebrew-popgis
-Repository for Homebrew formula of Mboff
+Repository for Homebrew formula of PopGIS
