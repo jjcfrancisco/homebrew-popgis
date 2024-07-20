@@ -4,7 +4,7 @@ class Popgis < Formula
     desc "A blazing fast way to insert GeoJSON & ShapeFile into a PostGIS database"
     homepage "https://github.com/jjcfrancisco/popgis"
     url "https://github.com/jjcfrancisco/popgis/archive/refs/tags/v0.3.3.tar.gz"
-    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    sha256 "db0d7cca177f497e6c9780c3c7f74ed47cabfca3883945c1b2c439b55a240f2a"
   
     depends_on "rust" => :build
   
